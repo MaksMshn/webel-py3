@@ -1,3 +1,7 @@
+## Copyright (c) 2009-2011, Noel O'Boyle
+## All rights reserved.
+##
+## Python3 port by Maksim Misin
 """
 webel - A Cinfony module that runs entirely on web services
 
