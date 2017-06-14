@@ -1,7 +1,7 @@
 # webel-py3
-A port of webel (cinfony) to python3
+A port of webel (cinfony) to python 3 (tested on python 3.6)
 
-The original [python2 version](https://github.com/cinfony/cinfony) is written by Noel O'Boyle:
+The original [python 2 version](https://github.com/cinfony/cinfony) is written by Noel O'Boyle:
 
 _N.M. O'Boyle, G.R. Hutchison, Chem. Cent. J., 2008, 2, 24 http://dx.doi.org/10.1186/1752-153X-2-24_
 
